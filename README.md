@@ -49,6 +49,7 @@ brcmfmac: brcmf_c_preinit_dcmds: Firmware: BCM4364/3 wl0: Mar 28 2019 19:17:52 v
 brcmfmac 0000:01:00.0 wlp1s0: renamed from wlan0
 ```
 Note: If you encounter a `Direct firmware failed to load` message, go to `/lib/firmware/brcm` and rename the files accordingly.
+
 8. Install IWD and configure it:
 ```
 sudo apt-get update && sudo apt-get install iwd
