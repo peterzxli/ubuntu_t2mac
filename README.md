@@ -68,6 +68,8 @@ wifi.backend=iwd
 ```
 10. Connect to WIFI and enjoy!
 
+Note: Wifi sometimes drop connections when transferring large files. If wifi's connection kept dropping, reboot into MacOS then reboot back into Ubuntu to resolve this problem.
+
 ## For more information, visit:
 - Ubuntu Installation Vlog: <https://vinodhsblog.co.za/ubuntu-20-04-lts-on-a-macbook-pro/>
 - Ubuntu MacOS Github: <https://github.com/marcosfad/mbp-ubuntu>
